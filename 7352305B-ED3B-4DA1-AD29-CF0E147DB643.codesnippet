@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>osversion</string>
+	<string>ud</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>Preprocessor</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__IPHONE_&lt;#major_version#&gt;_&lt;#minor_version#&gt;</string>
+	<string>NSUserDefaults *u = [NSUserDefaults standardUserDefaults];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0433858E-DD79-4047-8153-3C3FC22CE2F4</string>
+	<string>7352305B-ED3B-4DA1-AD29-CF0E147DB643</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>__IPHONE_MAJOR_MINOR</string>
+	<string>NSUserDefaults</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
