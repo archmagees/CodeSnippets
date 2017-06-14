@@ -9,13 +9,13 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@DINweakify(self);</string>
+	<string>@weakify(self);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC09911C-96A1-4379-8C53-94348F0CC167</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@DINweakify</string>
+	<string>@weakify</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

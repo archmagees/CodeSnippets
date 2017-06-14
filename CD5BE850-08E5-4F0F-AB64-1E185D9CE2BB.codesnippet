@@ -9,13 +9,13 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@DINstrongify(self);</string>
+	<string>@strongify(self);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CD5BE850-08E5-4F0F-AB64-1E185D9CE2BB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@DINstrongify</string>
+	<string>@strongify</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
