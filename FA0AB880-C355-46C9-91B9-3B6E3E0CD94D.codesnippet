@@ -3,19 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>properties</string>
+	<string>accessors</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Preprocessor</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pragma mark - Properties</string>
+	<string>pragma mark - Accessors</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FA0AB880-C355-46C9-91B9-3B6E3E0CD94D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Accessors</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pragma mark - Properties</string>
+	<string>pragma mark - Accessors</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
