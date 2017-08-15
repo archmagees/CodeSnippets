@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>udefault</string>
+	<string>delegates</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>Preprocessor</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];</string>
+	<string>pragma mark - Delegates</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>31F9F337-D377-4C5D-9095-0D89E4E46384</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>UserDefaults</string>
+	<string>#pragma mark - Delegates</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
