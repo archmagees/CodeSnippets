@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@s</string>
+	<string>strongify</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@strongify(self);</string>
+	<string>strongify(self);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CD5BE850-08E5-4F0F-AB64-1E185D9CE2BB</string>
 	<key>IDECodeSnippetLanguage</key>

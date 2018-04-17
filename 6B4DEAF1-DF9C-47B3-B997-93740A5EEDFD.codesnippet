@@ -9,13 +9,13 @@
 		<string>Preprocessor</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pragma mark - Private Methods</string>
+	<string>pragma mark - Private</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6B4DEAF1-DF9C-47B3-B997-93740A5EEDFD</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pragma mark - Private Methods</string>
+	<string>pragma mark - Private</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

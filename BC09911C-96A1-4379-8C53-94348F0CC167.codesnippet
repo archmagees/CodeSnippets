@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@w</string>
+	<string>weakify</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@weakify(self);</string>
+	<string>weakify(self);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC09911C-96A1-4379-8C53-94348F0CC167</string>
 	<key>IDECodeSnippetLanguage</key>
