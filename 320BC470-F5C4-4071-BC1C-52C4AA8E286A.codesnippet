@@ -6,12 +6,12 @@
 	<string>itshould</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>it(@"&lt;#should...#&gt;", ^{
-			&lt;#code#&gt;
-		});</string>
+            &lt;#code#&gt;
+        });</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>320BC470-F5C4-4071-BC1C-52C4AA8E286A</string>
 	<key>IDECodeSnippetLanguage</key>

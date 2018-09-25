@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>button</string>
+	<string>mustoverride</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Preprocessor</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pragma mark Button Methods</string>
+	<string>pragma mark - Must Override</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>BFEEB51F-951C-4EEA-BBB3-AD6036EF54B5</string>
+	<string>D80D2A88-2F6A-4A91-9B50-0C92EC08F47B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>#pragma mark Button Methods</string>
+	<string>#pragma mark - Must Override</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

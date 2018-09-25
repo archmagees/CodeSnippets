@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mark</string>
+	<string>pragmamark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Preprocessor</string>
@@ -11,11 +11,11 @@
 	<key>IDECodeSnippetContents</key>
 	<string>pragma mark &lt;#mark_name#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>8E42D283-F7EA-4462-97C1-A6F802E9CB29</string>
+	<string>81A878CD-EC40-4573-B6A4-2A348EC9B22F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pragma mark - &lt;#mark_name#&gt;</string>
+	<string>#pragma  mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
