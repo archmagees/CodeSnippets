@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>#override</string>
+	<string>#sop</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Preprocessor</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pragma mark Override</string>
+	<string>pragma mark SOP</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D80D2A88-2F6A-4A91-9B50-0C92EC08F47B</string>
+	<string>87D36CA1-CEAD-468E-8B8C-1C006C29B6DF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>#pragma mark Override</string>
+	<string>#pragma mark SOP</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

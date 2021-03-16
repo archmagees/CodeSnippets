@@ -3,19 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>#override</string>
+	<string>initializer</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>Preprocessor</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pragma mark Override</string>
+	<string>// MARK: - Initializer</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D80D2A88-2F6A-4A91-9B50-0C92EC08F47B</string>
+	<string>04E7A522-F82A-49D1-9AC6-A1C7389391FF</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>// MARK: - Initializer</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>#pragma mark Override</string>
+	<string>// MARK: - Initializer</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

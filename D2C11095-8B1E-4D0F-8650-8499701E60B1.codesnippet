@@ -9,7 +9,7 @@
 		<string>Preprocessor</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if __IPHONE_OS_VERSION_MAX_ALLOWED</string>
+	<string>if __IPHONE_OS_VERSION_MAX_ALLOWED &gt;= &lt;#iphone_version#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D2C11095-8B1E-4D0F-8650-8499701E60B1</string>
 	<key>IDECodeSnippetLanguage</key>

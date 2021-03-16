@@ -9,7 +9,8 @@
 		<string>Preprocessor</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__IPHONE_&lt;#major_version#&gt;_&lt;#minor_version#&gt;</string>
+	<string>__IPHONE_&lt;#major_version#&gt;_&lt;#minor_version#&gt;
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0433858E-DD79-4047-8153-3C3FC22CE2F4</string>
 	<key>IDECodeSnippetLanguage</key>
