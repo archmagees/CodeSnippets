@@ -6,7 +6,7 @@
 	<string>automockable</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>//sourcery: AutoMockable</string>
